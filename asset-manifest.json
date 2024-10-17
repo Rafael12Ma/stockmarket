@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/stockmarket/static/css/main.a557dfea.css",
+    "main.js": "/github.io/stockmarket/static/js/main.273a017a.js",
+    "static/js/453.50e62e52.chunk.js": "/github.io/stockmarket/static/js/453.50e62e52.chunk.js",
+    "index.html": "/github.io/stockmarket/index.html",
+    "main.a557dfea.css.map": "/github.io/stockmarket/static/css/main.a557dfea.css.map",
+    "main.273a017a.js.map": "/github.io/stockmarket/static/js/main.273a017a.js.map",
+    "453.50e62e52.chunk.js.map": "/github.io/stockmarket/static/js/453.50e62e52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a557dfea.css",
+    "static/js/main.273a017a.js"
+  ]
+}
